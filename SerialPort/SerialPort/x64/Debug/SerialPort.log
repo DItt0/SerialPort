@@ -1,0 +1,18 @@
+﻿  TimingSwitch.cpp
+  SerialPort.cpp
+e:\programc\serialport\serialport\serialport.cpp(16): warning C4800: 'char': forcing value to bool 'true' or 'false' (performance warning)
+e:\programc\serialport\serialport\serialport.cpp(216): warning C4838: conversion from 'char' to 'unsigned char' requires a narrowing conversion
+e:\programc\serialport\serialport\serialport.cpp(230): warning C4838: conversion from 'char' to 'unsigned char' requires a narrowing conversion
+e:\programc\serialport\serialport\serialport.cpp(314): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+e:\programc\serialport\serialport\serialport.cpp(523): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programc\serialport\serialport\serialport.cpp(524): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programc\serialport\serialport\serialport.cpp(532): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programc\serialport\serialport\serialport.cpp(533): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programc\serialport\serialport\serialport.cpp(558): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+e:\programc\serialport\serialport\serialport.cpp(202): warning C4715: 'SerialPort::receive': not all control paths return a value
+  Compiling...
+  main.cpp
+  Generating Code...
+  SerialPort.vcxproj -> E:\ProgramC\SerialPort\x64\Debug\SerialPort.exe
+  SerialPort.vcxproj -> E:\ProgramC\SerialPort\x64\Debug\SerialPort.pdb (Partial PDB)
